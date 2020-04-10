@@ -3,4 +3,5 @@
 int main()
 {
 	std::cout << "Hello, world! It is damipekm\n";
+	return 0;
 }
